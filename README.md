@@ -60,3 +60,11 @@ MIT — siehe `LICENSE`. Trag deinen Namen in die Copyright-Zeile ein.
 ## Haftungsausschluss
 Dies ist ein privates Hilfswerkzeug, **keine steuerliche Beratung** im Sinne des StBerG. Es ersetzt
 weder Steuerberater noch eigene Prüfung. Für die Richtigkeit der Steuererklärung bist allein du verantwortlich.
+
+## Impressum
+
+Angaben gemäß § 5 DDG:
+Tobias Otschik
+E-Mail: t.otschik@outlook.de
+
+Rein privates, nicht-kommerzielles Open-Source-Projekt.
