@@ -1,0 +1,8 @@
+# nie echte Steuerdaten committen!
+*.xml
+*_AF_*.xml
+Bubble_Tax*.xml
+*.csv
+*.pdf
+.DS_Store
+node_modules/
