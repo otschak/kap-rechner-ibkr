@@ -65,6 +65,6 @@ weder Steuerberater noch eigene Prüfung. Für die Richtigkeit der Steuererklär
 
 Angaben gemäß § 5 DDG:
 Tobias Otschik
-E-Mail: t.otschik@outlook.de
+E-Mail: t.otschik [at] outlook [dot] de
 
 Rein privates, nicht-kommerzielles Open-Source-Projekt.
